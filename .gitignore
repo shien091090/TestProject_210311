@@ -1,0 +1,8 @@
+Temp/
+ProjectSettings/
+Library/
+.vs/
+TestProject_210311.csproj
+TestProject_210311.Editor.csproj
+TestProject_210311.sln
+UnityPackageManager/manifest.json
