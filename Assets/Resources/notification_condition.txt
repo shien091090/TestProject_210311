@@ -1,0 +1,15 @@
+condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,-,condition,-,result,output,output,-,-,-,-,-,-
+Cond_GameType,Cond_GameType,Cond_HallType,Cond_WinType,Cond_WinType,Cond_WinType,Cond_WinType,Cond_Item,Cond_Item,Cond_Item,Cond_Item,Cond_Chip,Cond_gem,Cond_gem,Cond_else,-,Cond_else,-,-,-,-,-,-,-,-,-,-
+PrizePoker Game,-,1|2|3,-,-,-,-,Slot,6|7,-,-,-,-,-,1,戳洞數(下限),4,戳洞數(上限),marquee,恭喜 {0} 在 {1} 福運戳戳樂 ，第{2}洞 就幸運戳出 {3} {4} ！,5,(廳館),(洞數),(卡片遊戲名稱) + (廳別) + (卡別星級) + (卡種),(數量) + 張,-,-
+PrizePoker Game,-,1|2|3,-,-,-,-,Slot,6|7,-,-,-,-,-,5,戳洞數(下限),-,戳洞數(上限),marquee,-,-,-,-,-,-,-,-
+CollectProduce Game,-,1|2|3,-,-,-,-,Slot,6|7,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+FestivalCollection Game,-,1|2|3,-,-,-,-,Slot,6|7,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+PokingLottery Game,-,1|2|3,-,-,-,-,Slot,6|7,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+Pazzle Game,100001,1|2|3,-,-,-,-,Slot,6|7,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+TreasureChest Game,-,1|2|3,-,100,-,-,Slot,6|7,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+TreasureChest Game,100002,1,-,100,150000,-,-,-,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+TreasureChest Game,-,2,-,-,750000,-,-,-,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+TreasureChest Game,-,3,-,-,3000000,-,-,-,-,-,-,-,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+TreasureChest Game,-,1,-,-,-,-,-,-,-,-,-,300,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+TreasureChest Game,-,2,-,-,-,-,-,-,-,-,-,1000,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
+TreasureChest Game,-,3,-,-,-,-,-,-,-,-,-,5000,-,-,-,-,-,marquee,-,-,-,-,-,-,-,-
