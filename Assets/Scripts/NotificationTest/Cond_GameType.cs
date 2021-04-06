@@ -7,9 +7,5 @@ using UnityEngine;
 public class Cond_GameType : ConditionData
 {
     public string gameType;
-
-    public Cond_GameType(string _typeName)
-    {
-        gameType = _typeName;
-    }
+    public int gameId;
 }
