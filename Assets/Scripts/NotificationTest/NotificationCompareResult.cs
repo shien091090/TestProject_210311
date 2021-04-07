@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[System.Serializable]
-public abstract class ConditionData
+public class NotificationCompareResult
 {
-  
+    public BroadcastType broadcastType;
+
 }

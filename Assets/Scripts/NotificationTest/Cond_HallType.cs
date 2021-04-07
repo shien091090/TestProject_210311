@@ -6,10 +6,5 @@ using UnityEngine;
 [CreateAssetMenu]
 public class Cond_HallType : ConditionData
 {
-    public int hallId;
-
-    public Cond_HallType(int id)
-    {
-        hallId = id;
-    }
+    public int hallId_contain;
 }

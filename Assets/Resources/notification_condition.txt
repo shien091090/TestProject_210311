@@ -1,15 +1,15 @@
 condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,condition,-,condition,-,result
 Cond_GameType,Cond_GameType,Cond_HallType,Cond_WinType,Cond_WinType,Cond_Item,Cond_Item,Cond_Item,Cond_Item,Cond_Chip,Cond_gem,Cond_else,-,Cond_else,-,NotificationCompareResult
-PrizePoker Game,-,1|2|3,-,-,Slot,6|7,-,-,-,-,1,戳洞數(下限),4,戳洞數(上限),marquee,
-PrizePoker Game,-,1|2|3,-,-,Slot,6|7,-,-,-,-,5,戳洞數(下限),-,戳洞數(上限),marquee
-CollectProduce Game,-,1|2|3,-,-,Slot,6|7,-,-,-,-,-,-,-,-,marquee
-FestivalCollection Game,-,1|2|3,-,-,Slot,6|7,-,-,-,-,-,-,-,-,marquee
-PokingLottery Game,-,1|2|3,-,-,Slot,6|7,-,-,-,-,-,-,-,-,marquee
-Pazzle Game,100005,1|2|3,-,-,Slot,6|7,-,-,-,-,-,-,-,-,marquee
-TreasureChest Game,-,1|2|3,100,-,Slot,6|7,-,-,-,-,-,-,-,-,marquee
-TreasureChest Game,100004,1,100,150000,-,-,-,-,-,-,-,-,-,-,marquee
-TreasureChest Game,-,2,-,750000,-,-,-,-,-,-,-,-,-,-,marquee
-TreasureChest Game,-,3,-,3000000,-,-,-,-,-,-,-,-,-,-,marquee
-TreasureChest Game,-,1,-,-,-,-,-,-,-,-,-,-,-,-,marquee
-TreasureChest Game,-,2,-,-,-,-,-,-,-,-,-,-,-,-,marquee
-TreasureChest Game,-,3,-,-,-,-,-,-,-,-,-,-,-,-,marquee
+PrizePoker Game,-,[1, 2, 3],-,-,Slot,[6, 7],-,-,-,-,1,戳洞數(下限),4,戳洞數(上限),Marquee,
+PrizePoker Game,-,[1, 2, 3],-,-,Slot,[6, 7],-,-,-,-,5,戳洞數(下限),-,戳洞數(上限),ChatMsg
+CollectProduce Game,-,[1, 2, 3],-,-,Slot,[6, 7],-,-,-,-,-,-,-,-,Marquee
+FestivalCollection Game,-,[1, 2, 3],-,-,Slot,[6, 7],-,-,-,-,-,-,-,-,Marquee
+PokingLottery Game,-,[1, 2, 3],-,-,Slot,[6, 7],-,-,-,-,-,-,-,-,Marquee
+Pazzle Game,-,[1, 2, 3],-,-,Slot,[6, 7],-,-,-,-,-,-,-,-,Marquee
+TreasureChest Game,-,[1, 2, 3],100,-,Slot,[6, 7],-,-,-,-,-,-,-,-,Marquee
+TreasureChest Game,-,1,100,150000~749999,-,-,-,-,-,-,-,-,-,-,Marquee
+TreasureChest Game,-,2,-,750000~2999999,-,-,-,-,-,-,-,-,-,-,Marquee
+TreasureChest Game,-,3,-,3000000~99999999,-,-,-,-,-,-,-,-,-,-,Marquee
+TreasureChest Game,-,1,-,-,-,-,-,-,-,-,-,-,-,-,Marquee
+TreasureChest Game,-,2,-,-,-,-,-,-,-,-,-,-,-,-,Marquee
+TreasureChest Game,-,3,-,-,-,-,-,-,-,-,-,-,-,-,Marquee
