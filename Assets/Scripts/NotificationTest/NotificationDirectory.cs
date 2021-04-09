@@ -55,7 +55,7 @@ public class NotificationDirectory
 
         if (_indexList.Length <= 0) return BroadcastType.None;
 
-        List<NotificationCompareResult> _resultGroup = new List<NotificationCompareResult>();
+        List < NotificationCompareResult> _resultGroup = new List<NotificationCompareResult>();
         _resultGroup = CongruentFilter(_indexList, conditions); //第二層判斷 : 條件是否完全吻合
 
         if (_resultGroup.Count <= 0) return BroadcastType.None;
