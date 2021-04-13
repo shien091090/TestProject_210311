@@ -631,7 +631,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 285953276}
-        m_MethodName: BTN_Test
+        m_MethodName: BTN_JObjTest
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

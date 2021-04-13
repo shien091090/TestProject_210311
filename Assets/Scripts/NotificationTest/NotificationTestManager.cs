@@ -2,7 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-using Newtonsoft.Json;
+using System.Text.RegularExpressions;
+
+public class TestClassA
+{
+    public int num;
+}
+
+public class TestClassB
+{
+    public string content;
+}
 
 public class NotificationTestManager : MonoBehaviour
 {
